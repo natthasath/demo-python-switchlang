@@ -1,0 +1,5 @@
+2025-04-01 15:48:08,078 - SwitchLang - INFO - Mapping file thai_to_eng.json not found, using default mappings
+2025-04-01 15:48:08,079 - SwitchLang - INFO - Mapping file eng_to_thai.json not found, using default mappings
+2025-04-01 15:48:08,192 - SwitchLang - INFO - SwitchLang started and running in background
+2025-04-01 15:48:19,549 - SwitchLang - INFO - Corrected: 'wxwso,k' to 'ไปไหนมา'
+2025-04-01 15:48:25,703 - SwitchLang - INFO - Corrected: 'l;ylfu8iy[' to 'สวัสดีครับ'

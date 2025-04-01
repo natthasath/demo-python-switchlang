@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "demo-python-rightlang"
+version = "0.1.0"
+description = ""
+authors = ["natthasath <natthasath.sak@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "demo_python_rightlang"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+keyboard = "^0.13.5"
+pyperclip = "^1.9.0"
+pystray = "^0.19.5"
+pillow = "^11.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
